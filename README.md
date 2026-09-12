@@ -1,8 +1,3 @@
-Here is your professional portfolio project in Markdown format, ready to copy into GitHub, Notion, or your data analyst portfolio.
-
-Markdown
-
-```
 # Greenfield Academy Automated Report Card System
 
 **Project Type:** Data Analytics & Reporting Automation  
@@ -146,7 +141,3 @@ It highlights the ability to transform structured student data into actionable i
 - Formula-Driven Lookup System
 - Student Performance Analysis
 - Attendance Monitoring Report
-```
-
-Before publishing: Add screenshots of your Excel dataset and automated report card. Also confirm the pass mark and tuition fee currency so the portfolio is accurate.
-
