@@ -1,0 +1,7 @@
+title: Ige Data Analyst
+logo: 
+description: I am a passionate and detail-oriented Data Analyst with a strong interest in transforming raw data into meaningful insights that support business decision-making. I enjoy analyzing data, identifying trends, solving problems, and presenting findings in a clear and understandable way.
+show_download: true
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
